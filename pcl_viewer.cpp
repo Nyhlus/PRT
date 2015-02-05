@@ -3,7 +3,7 @@
  *
  * Janvier-Avril 2015
  * Aix-Marseille Université, France
- *
+ **
  */
 
 #include <iostream>
